@@ -1,5 +1,5 @@
-# PokemonVR
-### An VR Pokemon iOS Game using ARKit 2
+# PokemonAR
+### An AR Pokemon iOS Game using ARKit 2
 ## Features
 
 ### 1. Tracking Images
